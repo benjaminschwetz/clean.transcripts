@@ -8,3 +8,14 @@ Description: Office 365 offers a neat feature to transcribe audio files. Unfortu
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    dplyr,
+    lubridate,
+    magrittr,
+    purrr,
+    rtika (>= 2.0.0),
+    tibble,
+    tidyr
+Remotes: 
+    ropensci/rtika
+RoxygenNote: 7.1.1
