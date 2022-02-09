@@ -1,7 +1,7 @@
 Package: clean.transcripts
 Type: Package
 Title: Clean up your audio transcripts from Office 365 Word transcribe feature
-Version: 0.1.0
+Version: 0.1.1
 Author: Benjamin Schwetz
 Maintainer: Nobody <yourself@somewhere.net>
 Description: Office 365 offers a neat feature to transcribe audio files. Unfortunately, editing the scripts in the UI is a pain. So I wrote this package to make life a little easier.
