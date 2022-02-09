@@ -14,6 +14,7 @@ Imports:
     magrittr,
     purrr,
     rtika (>= 2.0.0),
+    stringr,
     tibble,
     tidyr
 Remotes: 
